@@ -1,0 +1,22 @@
+{
+  "name": "video.min",
+  "version": "1.0.0",
+  "description": "Vulnerable Package - PoC for Dependency Confusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k0ns0l/video.min.git"
+  },
+  "keywords": [
+    "PoC"
+  ],
+  "author": "k0ns0l",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k0ns0l/video.min/issues"
+  },
+  "homepage": "https://github.com/k0ns0l/video.min#readme"
+}
